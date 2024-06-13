@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+#check {
+  padding: 10px;
+}
+#month-input {
+  padding: 10px;
+}
